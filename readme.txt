@@ -1,6 +1,3 @@
-Name:   Mitchell Van Braeckel
-ID:     1002297
-Email:  mvanbrae@uoguelph.ca
 CIS*2520: Data Structures - Assignment #1
 
 To compile, just type "make" to compile everything.
