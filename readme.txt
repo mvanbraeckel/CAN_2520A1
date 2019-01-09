@@ -1,4 +1,9 @@
-CIS*2520: Data Structures - Assignment #1
+# CAN_2520A1
+Data Structures course A1 - 3 programs: (1) Prints all permutations of "carbon" (2) Prints the result of Ackermann's function: A(m, n) using recursion (3) Prints the result of Newton's method: recursively approximate the calculation of a square root
+
+*Do not use code from this or copy any aspects without explicit permission from creator*
+
+(Data Structures course Assignment #1)
 
 To compile, just type "make" to compile everything.
 
